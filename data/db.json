@@ -1,0 +1,9 @@
+{
+  "courses":[
+    {
+      "id": "MAT-0001",
+      "name": "Math",
+      "description": "Basic math for dummys"
+    }
+  ]
+}
